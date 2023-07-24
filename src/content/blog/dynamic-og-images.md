@@ -1,15 +1,15 @@
 ---
-author: Sat Naing
+author: Kevin Kunkel
 pubDatetime: 2022-12-28T04:59:04.866Z
-title: Dynamic OG image generation in AstroPaper blog posts
+title: Creating a Flask Project
 postSlug: dynamic-og-image-generation-in-astropaper-blog-posts
 featured: false
 draft: false
 tags:
-  - docs
-  - release
+  - python
+  - flask
 ogImage: ""
-description: New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.
+description: Installing and setting up the Flask-Framework for python web developement
 ---
 
 New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.

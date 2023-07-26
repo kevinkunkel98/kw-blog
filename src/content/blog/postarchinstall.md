@@ -24,7 +24,7 @@ Install nvidia drivers when using nvidia gpus:
 sudo pacman -S nvidia 
 ```
 
-Install backends for KDE-Discover to use the software store:
+Install backends for KDE-Discover to use the software store, `packagekit-qt5` for "normal" packages, `flatpak` for Flatpaks and `fwupd` for firmware updates.
 
 ```shell
 sudo pacman -S packagekit-qt5 flatpak fwupd
@@ -34,7 +34,7 @@ Install a fancy terminal theme quickly and easy. First we need the fonts:
 ```shell
 sudo pacman -S powerline-fonts
 ```
-then we can install the terminal theme which we can config later if we want:
+Then we can install the terminal theme which we can config later if we want:
 
 ```shell
 git clone --recursive https://github.com/andresgongora/synth-shell.git

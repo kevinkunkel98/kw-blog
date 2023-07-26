@@ -1,7 +1,7 @@
 ---
 author: Sat Naing
 pubDatetime: 2022-09-23T15:22:00Z
-title: Adding new posts in AstroPaper theme
+title: Interesting Linux Distros
 postSlug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
@@ -9,8 +9,7 @@ tags:
   - docs
 ogImage: ""
 description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+  List of Major Distributions to try out for rookie and advanced users.
 ---
 
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.

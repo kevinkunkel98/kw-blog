@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Kevin Kunkel
 pubDatetime: 2023-01-30T15:57:52.737Z
 title: ArchLinux Installation
 postSlug: astro-paper-2

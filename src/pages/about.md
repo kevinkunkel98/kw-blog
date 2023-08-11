@@ -22,3 +22,6 @@ default and additional color schemes can also be configured.
 - Learning humand Languages
 - Learning Programming Languages
 - Building exciting Projects!
+
+## Things I dislike
+- Printers

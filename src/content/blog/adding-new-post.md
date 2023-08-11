@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Kevin Kunkel
 pubDatetime: 2022-09-23T15:22:00Z
 title: Interesting Linux Distros
 postSlug: adding-new-posts-in-astropaper-theme

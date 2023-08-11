@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Kevin Kunkel
 pubDatetime: 2022-09-23T04:58:53Z
 title: Getting started with Neovim using NvChad
 postSlug: how-to-configure-astropaper-theme

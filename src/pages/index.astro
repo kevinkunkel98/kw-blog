@@ -23,8 +23,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <div>
-        <img src="/assets/flare.jpg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+      <div class="hero-image">
+        <img src="/assets/knight.png" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
       </div>
       <h1>Kevin's Tech Corner</h1>
       <a
@@ -46,15 +46,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         Hi I'm Kevin and this is my Personal Blog for Documentation and writing about useful Software and Linux
         related topics. Creating a Histogram on all the things I have ever seen. Also Setups/Tutorials to paste
         from that I need constantly.
-      </p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
       </p>
       {
         // only display if at least one social link is enabled
@@ -123,6 +114,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
 <style>
   /* ===== Hero Section ===== */
+  .hero-image {
+  }
+
   #hero {
     @apply pb-6 pt-8;
   }

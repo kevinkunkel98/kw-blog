@@ -2,7 +2,7 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
+  author: "Kevin Kunkel",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "KnowledgeWizard",
   ogImage: "astropaper-og.jpg",
@@ -22,7 +22,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/kevinkunkel98/",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -34,7 +34,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/kevin.kunkel98/",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
